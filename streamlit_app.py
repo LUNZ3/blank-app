@@ -4,7 +4,7 @@ import streamlit as st
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>CourseDetector — Strip the hype. See the truth.</title>
+
 <meta name="description" content="AI-powered tool that exposes overpriced online courses and manipulative sales tactics. Free, independent, unsponsored."/>
 <meta property="og:title" content="CourseDetector — Strip the hype. See the truth."/>
 <meta property="og:description" content="Paste any course URL. We expose the psychological manipulation in seconds."/>
