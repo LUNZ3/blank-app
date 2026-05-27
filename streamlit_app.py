@@ -17,7 +17,7 @@ html{scroll-behavior:smooth}
 body{background:#060606;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;color:#e0e0e0;min-height:100vh}
 
 /* NAV */
-nav{position:sticky;top:0;z-index:100;background:rgba(6,6,6,0.92);backdrop-filter:blur(12px);border-bottom:0.5px solid #1a1a1a;padding:.75rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
+
 .wm{font-size:16px;font-weight:700;color:#e0e0e0;letter-spacing:-.02em;text-decoration:none}
 .wm span{color:var(--neon)}
 .nav-links{display:flex;align-items:center;gap:1.25rem}
